@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "MedGuard-UZ-ADE-XAI"
+message: "If you use this repository, please cite the related manuscript or this repository."
+type: software
+authors:
+  - family-names: Shakarbaev
+    given-names: Ulugbek
+    email: ushakarbaev@gmail.com
+    affiliation: Alfraganus University
+  - family-names: Shakarbaev
+    given-names: Nurbek
+    email: nurbekshakarbayev@gmail.com
+    affiliation: New Uzbekistan University
+repository-code: "https://github.com/Shakarbayev/MedGuard-UZ-ADE-XAI"
+keywords:
+  - adverse drug events
+  - pharmacovigilance
+  - FAERS
+  - machine learning
+  - XGBoost
+  - explainable AI
+  - SHAP
+  - fairness audit
+license: MIT
