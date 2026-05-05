@@ -1,0 +1,8 @@
+Analysis block,Main finding,Manuscript interpretation
+Full model performance,Full XGBoost achieved AUROC 0.865 and AUPRC 0.841.,"Strong internal held-out performance, but potential reaction_outcomes leakage required sensitivity analysis."
+Leakage sensitivity analysis,"After excluding reaction_outcomes, AUROC remained 0.862 and AUPRC 0.838.",Performance was not materially dependent on the potential outcome-proxy feature.
+Temporal validation,Temporal test AUROC decreased to 0.800 and AUPRC to 0.788.,Temporal drift exists; periodic recalibration is required.
+Threshold optimisation,Threshold 0.30 reduced alert burden by 36.9% while retaining 90.8% serious ADE sensitivity.,0.30 is the preferred safety-oriented threshold.
+Alert tier analysis,"Critical tier serious ADE rate was 92.9%; audit queue still contained 1,657 serious ADE cases.",Low-risk cases must not be deleted; use pharmacist audit queue.
+Fairness analysis,"Female, unknown-sex, infant, teen, unknown-age, and low-drug-count groups showed elevated FNR or lower AUROC.",Subgroup-specific calibration is required before deployment.
+SHAP explainability,Top SHAP features should be interpreted after leakage-reduced analysis.,"Explainability is valid at FAERS report level, not causal clinical mechanism level."

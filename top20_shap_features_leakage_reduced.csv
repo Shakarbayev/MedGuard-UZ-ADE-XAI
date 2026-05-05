@@ -1,0 +1,21 @@
+Rank,Feature,Mean_abs_SHAP
+1,country_US,0.48151782
+2,age_group_Unknown,0.3134218
+3,num_drugs,0.21838558
+4,num_reactions,0.17788464
+5,report_age_days,0.105599515
+6,primary_reaction_Death,0.10269518
+7,patient_age_years,0.0923443
+8,primary_reaction_infrequent_sklearn,0.08634707
+9,suspect_drug_RISPERIDONE,0.07099827
+10,drug_indication_Diabetes Mellitus,0.06138212
+11,patient_sex_Male,0.061097525
+12,drug_route_42.0,0.06057093
+13,patient_sex_Female,0.055383917
+14,patient_weight_kg,0.05505528
+15,country_CA,0.04587016
+16,suspect_drug_RIVAROXABAN,0.045259796
+17,suspect_drug_infrequent_sklearn,0.042429544
+18,drug_indication_Unknown,0.04007351
+19,primary_reaction_Drug hypersensitivity,0.032704722
+20,suspect_drug_AVANDIA,0.03018711

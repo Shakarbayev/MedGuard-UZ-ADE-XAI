@@ -1,0 +1,16 @@
+Rank,Feature,Mean_abs_SHAP
+1,country_US,0.47574696
+2,age_group_Unknown,0.2793577
+3,num_drugs,0.19760168
+4,num_reactions,0.14574364
+5,reaction_outcomes_Unknown,0.12842324
+6,primary_reaction_Death,0.10327431
+7,report_age_days,0.095551066
+8,patient_age_years,0.094249904
+9,primary_reaction_infrequent_sklearn,0.0836745
+10,drug_indication_Diabetes Mellitus,0.07327644
+11,patient_sex_Female,0.071889564
+12,suspect_drug_RISPERIDONE,0.0629713
+13,reaction_outcomes_Not Recovered,0.06020958
+14,drug_route_42.0,0.05644013
+15,suspect_drug_infrequent_sklearn,0.04861974

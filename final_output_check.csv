@@ -1,0 +1,15 @@
+File,Exists,Size KB
+primary_leakage_reduced_model_results.csv,✅ Yes,0.25
+strict_leakage_sensitivity_analysis.csv,✅ Yes,0.58
+temporal_validation_results.csv,✅ Yes,0.41
+threshold_optimization_leakage_reduced.csv,✅ Yes,0.74
+alert_tier_summary_leakage_reduced.csv,✅ Yes,0.32
+fairness_summary_leakage_reduced.csv,✅ Yes,4.84
+shap_summary_plot_leakage_reduced.png,✅ Yes,293.62
+shap_feature_importance_bar_leakage_reduced.png,✅ Yes,254.5
+top20_shap_features_leakage_reduced.csv,✅ Yes,0.73
+calibration_curve_leakage_reduced.png,✅ Yes,145.03
+calibration_curve_leakage_reduced.csv,✅ Yes,0.35
+xgboost_ade_model_leakage_reduced.pkl,✅ Yes,11764.01
+xgboost_ade_model_strict_leakage_reduced.pkl,✅ Yes,1993.72
+xgboost_ade_model_temporal.pkl,✅ Yes,10465.14

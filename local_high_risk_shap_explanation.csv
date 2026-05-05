@@ -1,0 +1,16 @@
+Feature,SHAP_value,Abs_SHAP
+primary_reaction_Death,4.481337,4.481337
+suspect_drug_DARBEPOETIN ALFA,1.4490787,1.4490787
+country_US,0.7501161,0.7501161
+patient_age_years,0.369399,0.369399
+primary_reaction_infrequent_sklearn,-0.124485515,0.124485515
+suspect_drug_AVANDIA,0.080968805,0.080968805
+"manufacturer_Amgen, Inc",-0.080671065,0.080671065
+num_drugs,0.05985966,0.05985966
+country_CA,0.05230849,0.05230849
+patient_sex_Female,-0.045311015,0.045311015
+age_group_Unknown,0.044538736,0.044538736
+drug_indication_Unknown,0.029625881,0.029625881
+reaction_outcomes_Not Recovered,0.028833324,0.028833324
+drug_route_42.0,-0.022848036,0.022848036
+country_GB,0.0174946,0.0174946

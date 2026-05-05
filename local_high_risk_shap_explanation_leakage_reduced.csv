@@ -1,0 +1,16 @@
+Feature,SHAP_value,Abs_SHAP
+primary_reaction_Death,4.567884,4.567884
+drug_route_33.0,1.4506131,1.4506131
+country_US,0.64057744,0.64057744
+num_reactions,-0.21195675,0.21195675
+report_age_days,0.18830913,0.18830913
+country_VN,0.08425394,0.08425394
+drug_indication_Peritoneal Dialysis,0.082808636,0.082808636
+primary_reaction_infrequent_sklearn,-0.073294796,0.073294796
+suspect_drug_AVANDIA,0.066716425,0.066716425
+reactions_Death,0.06334427,0.06334427
+num_drugs,0.06316001,0.06316001
+age_group_Unknown,0.052260417,0.052260417
+patient_sex_Male,0.049907055,0.049907055
+suspect_drug_infrequent_sklearn,0.045160946,0.045160946
+country_CA,0.04162628,0.04162628

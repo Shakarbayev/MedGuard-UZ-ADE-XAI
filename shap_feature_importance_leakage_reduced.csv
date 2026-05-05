@@ -1,0 +1,373 @@
+Feature,Mean_abs_SHAP
+country_US,0.48151782
+age_group_Unknown,0.3134218
+num_drugs,0.21838558
+num_reactions,0.17788464
+report_age_days,0.105599515
+primary_reaction_Death,0.10269518
+patient_age_years,0.0923443
+primary_reaction_infrequent_sklearn,0.08634707
+suspect_drug_RISPERIDONE,0.07099827
+drug_indication_Diabetes Mellitus,0.06138212
+patient_sex_Male,0.061097525
+drug_route_42.0,0.06057093
+patient_sex_Female,0.055383917
+patient_weight_kg,0.05505528
+country_CA,0.04587016
+suspect_drug_RIVAROXABAN,0.045259796
+suspect_drug_infrequent_sklearn,0.042429544
+drug_indication_Unknown,0.04007351
+primary_reaction_Drug hypersensitivity,0.032704722
+suspect_drug_AVANDIA,0.03018711
+primary_reaction_Drug ineffective,0.028730119
+primary_reaction_Myocardial infarction,0.026027808
+drug_route_48.0,0.025537595
+"manufacturer_Gilead Sciences, Inc.",0.025394263
+reactions_infrequent_sklearn,0.025277507
+primary_reaction_Pneumonia,0.024528127
+suspect_drug_EVOLOCUMAB,0.024479764
+suspect_drug_ETANERCEPT,0.022060322
+patient_sex_Unknown,0.021756962
+primary_reaction_Gastrointestinal haemorrhage,0.021709291
+drug_count_category_Polypharmacy(6+),0.020130012
+country_DE,0.01788567
+"manufacturer_Actelion Pharmaceuticals Us, Inc.",0.017356433
+drug_route_58.0,0.01649664
+"manufacturer_Cosette Pharmaceuticals, Inc.",0.0155523475
+suspect_drug_ADALIMUMAB,0.015488863
+"manufacturer_Janssen Pharmaceuticals, Inc.",0.015417197
+"manufacturer_Astellas Pharma Us, Inc.",0.015188322
+suspect_drug_DABIGATRAN ETEXILATE MESYLATE; DABIGATRAN ETEXILATE,0.015036415
+drug_route_Unknown,0.01474674
+drug_route_41.0,0.014539887
+manufacturer_Bayer Healthcare Pharmaceuticals Inc.,0.014467236
+country_FR,0.014303002
+suspect_drug_FINGOLIMOD HCL,0.013563392
+manufacturer_Parke-Davis Div Of Pfizer Inc; Viatris Specialty Llc,0.013558068
+primary_reaction_Cerebrovascular accident,0.013253046
+manufacturer_Biogen Inc.,0.013015032
+suspect_drug_APREMILAST,0.012947802
+country_BR,0.012808421
+manufacturer_Novartis Pharmaceuticals Corporation,0.012549304
+primary_reaction_Acute kidney injury,0.012333388
+"manufacturer_Actavis Pharma, Inc.; Zydus Lifesciences Limited; Gilead Sciences, Inc.; Mylan Pharmaceuticals Inc.; Aurobindo Pharma Limited",0.012326527
+drug_indication_Chronic Hepatitis C,0.012154055
+primary_reaction_Acute myocardial infarction,0.012132334
+manufacturer_Pfizer Laboratories Div Pfizer Inc; U.S. Pharmaceuticals,0.011986087
+drug_indication_Pulmonary Arterial Hypertension,0.011453053
+drug_indication_Androgen Replacement Therapy,0.011352705
+drug_count_category_Single,0.011101625
+suspect_drug_INSULIN GLARGINE,0.011069351
+manufacturer_Eli Lilly And Company,0.010980127
+drug_indication_infrequent_sklearn,0.009852072
+suspect_drug_SODIUM OXYBATE,0.009257757
+suspect_drug_AMBRISENTAN,0.009193951
+primary_reaction_Gynaecomastia,0.009026481
+manufacturer_Unknown,0.008546082
+drug_route_30.0,0.008521119
+drug_route_65.0,0.008212545
+drug_route_33.0,0.0081630815
+suspect_drug_DARBEPOETIN ALFA,0.007709523
+primary_reaction_Cardiac failure congestive,0.007705125
+year,0.0075365524
+drug_indication_Atrial Fibrillation,0.007403115
+primary_reaction_Maternal exposure during pregnancy,0.007101105
+drug_indication_Plasma Cell Myeloma,0.0070241243
+suspect_drug_TESTOSTERONE,0.0069821426
+drug_indication_Rheumatoid Arthritis,0.0069654137
+reactions_Hospitalisation,0.0065839286
+"manufacturer_Amgen, Inc",0.0065762238
+primary_reaction_Pyrexia,0.0065301866
+primary_reaction_Fall,0.0064747278
+primary_reaction_Coronary artery disease,0.0063094874
+"manufacturer_Allergan, Inc.",0.006032912
+primary_reaction_Urinary tract infection,0.005736648
+drug_indication_Crohn^S Disease,0.0057339836
+primary_reaction_Fatigue,0.0057035624
+drug_route_47.0,0.0056484262
+suspect_drug_NIVOLUMAB,0.0054135234
+age_group_Middle-Aged(41-65),0.005371616
+country_JP,0.005307958
+drug_route_62.0,0.0052422006
+manufacturer_Merck Sharp & Dohme Llc,0.005051722
+"manufacturer_Takeda Pharmaceuticals America, Inc.",0.005018912
+primary_reaction_Malignant neoplasm progression,0.0049763387
+drug_indication_Attention Deficit/Hyperactivity Disorder,0.0049230917
+primary_reaction_Rash,0.0046174284
+suspect_drug_SECUKINUMAB,0.0045208298
+drug_indication_Product Used For Unknown Indication,0.004433077
+manufacturer_Immunex Corporation,0.004188702
+drug_indication_Hiv Infection,0.004052005
+primary_reaction_Blood glucose increased,0.0039529735
+"manufacturer_Janssen Biotech, Inc.",0.0038811485
+suspect_drug_DULOXETINE HYDROCHLORIDE,0.0037423563
+manufacturer_Glaxosmithkline Llc,0.0035319903
+primary_reaction_Anaemia,0.003449188
+primary_reaction_Headache,0.0033918053
+manufacturer_Amgen Usa Inc.,0.0032976384
+manufacturer_Organon Llc,0.0032689758
+drug_route_59.0,0.003253287
+"manufacturer_Merz Pharmaceuticals, Llc",0.0031919517
+drug_indication_Pulmonary Hypertension,0.0031503034
+suspect_drug_DENOSUMAB,0.0030350762
+primary_reaction_Dyspnoea,0.0030016778
+primary_reaction_Seizure,0.0029806343
+primary_reaction_Dizziness,0.002965631
+reactions_Drug hypersensitivity,0.0029426855
+primary_reaction_Abnormal weight gain,0.0028387436
+manufacturer_Pfizer Laboratories Div Pfizer Inc,0.0027586822
+country_PR,0.0026456818
+"manufacturer_Boehringer Ingelheim Pharmaceuticals, Inc.",0.0024234555
+"manufacturer_Boehringer Ingelheim Pharmaceuticals Inc.; Boehringer Ingelheim Pharmaceuticals, Inc.",0.0023872205
+"manufacturer_E.R. Squibb & Sons, L.L.C.",0.0022434688
+drug_indication_Thrombosis Prophylaxis,0.0021457172
+primary_reaction_Weight increased,0.00209661
+primary_reaction_Nasopharyngitis,0.0019821872
+age_group_Elderly(81+),0.0018677311
+suspect_drug_LEVONORGESTREL,0.0017591339
+reactions_Off label use,0.0017513101
+reactions_Type 2 diabetes mellitus,0.0017473563
+drug_route_61.0,0.001740251
+manufacturer_infrequent_sklearn,0.0017113968
+drug_indication_Hormone-Refractory Prostate Cancer,0.001695426
+suspect_drug_OLMESARTAN MEDOXOMIL,0.0016894065
+suspect_drug_DALFAMPRIDINE,0.0016622037
+manufacturer_Sanofi-Aventis U.S. Llc,0.0016348633
+reactions_Drug ineffective,0.0016202467
+reactions_Death,0.00159013
+drug_indication_Type 2 Diabetes Mellitus,0.001589978
+manufacturer_Celgene Corporation,0.0015499265
+primary_reaction_Pain in extremity,0.0014488198
+suspect_drug_NATALIZUMAB,0.0013707881
+reactions_Exposure during pregnancy,0.0012888449
+drug_indication_Non-Small Cell Lung Cancer,0.0012730893
+reactions_Osteonecrosis of jaw,0.0011746851
+primary_reaction_Osteonecrosis of jaw,0.0011621744
+drug_indication_Chronic Myeloid Leukaemia,0.0011278864
+manufacturer_United Therapeutics Corporation,0.0011064253
+primary_reaction_Vomiting,0.0010737646
+suspect_drug_INFLIXIMAB,0.0010495658
+drug_indication_Chronic Lymphocytic Leukaemia,0.0010398815
+reactions_Cerebral haemorrhage,0.0010343005
+reactions_Upper gastrointestinal haemorrhage,0.0010147113
+primary_reaction_Arthralgia,0.00100062
+"manufacturer_Endo Usa, Inc.",0.0009842713
+drug_count_category_2-3 Drugs,0.000983048
+suspect_drug_PALBOCICLIB,0.0009758816
+country_GB,0.00096354564
+suspect_drug_ENZALUTAMIDE,0.00095412217
+manufacturer_Lundbeck Pharmaceuticals Llc,0.00093210995
+primary_reaction_Drug dose omission,0.00092689146
+suspect_drug_ECULIZUMAB,0.0009255558
+suspect_drug_OCTREOTIDE ACETATE,0.0008250843
+manufacturer_Astrazeneca Pharmaceuticals Lp,0.00082356896
+drug_route_64.0,0.00082224776
+country_PT,0.00081409916
+drug_indication_Blood Cholesterol Increased,0.0007853978
+primary_reaction_Nausea,0.000780651
+suspect_drug_PREGABALIN,0.0007436773
+drug_indication_Gait Disturbance,0.0007011295
+country_Unknown,0.0006932042
+drug_indication_Pain,0.0006890486
+suspect_drug_ARIPIPRAZOLE,0.00065429433
+drug_indication_Breast Cancer Metastatic,0.0006425299
+drug_route_55.0,0.0006253251
+drug_count_category_4-5 Drugs,0.0006086055
+suspect_drug_DIMETHYL FUMARATE,0.0005745405
+country_BE,0.0005741464
+manufacturer_Cordavis Limited; Abbvie Inc.,0.0005401877
+"manufacturer_Jazz Pharmaceuticals, Inc.",0.00053884136
+reactions_Pulmonary embolism,0.0005378296
+suspect_drug_RUXOLITINIB,0.000524594
+drug_indication_Contraception,0.0005191065
+suspect_drug_SUNITINIB MALATE,0.00051837275
+drug_indication_Peritoneal Dialysis,0.00051532243
+age_group_Senior(66-80),0.0005152627
+drug_indication_Osteoporosis,0.0005067185
+reactions_Gastrointestinal haemorrhage,0.00050077564
+age_group_Adult(19-40),0.0004718869
+reactions_Neuropathy peripheral,0.00042398
+manufacturer_Abbvie Inc.,0.00042308838
+"manufacturer_Genentech, Inc.",0.00039925275
+drug_route_15.0,0.00039756697
+country_IT,0.0003924834
+country_CN,0.00035748334
+country_IL,0.00035676014
+country_VE,0.00034727214
+manufacturer_Genzyme Corporation,0.00034693052
+primary_reaction_Feeling abnormal,0.00033595783
+country_TW,0.00033152907
+reactions_Cerebrovascular accident,0.00032038268
+primary_reaction_Type 2 diabetes mellitus,0.0003174026
+drug_indication_Multiple Sclerosis,0.00030281377
+drug_route_13.0,0.00029517166
+drug_indication_Psoriasis,0.00028305664
+manufacturer_Incyte Corporation,0.00026959577
+reactions_Malignant neoplasm progression,0.0002634865
+suspect_drug_ABATACEPT,0.00026237915
+reactions_Anaemia,0.00026026796
+suspect_drug_GOLIMUMAB,0.00025749256
+drug_indication_Cerebrovascular Accident Prophylaxis,0.00023936607
+country_NL,0.00023805645
+suspect_drug_TOCILIZUMAB,0.00023093415
+drug_indication_Prostate Cancer,0.00022838856
+suspect_drug_INTERFERON BETA-1A,0.00022726574
+suspect_drug_TERIFLUNOMIDE,0.00022133144
+drug_route_67.0,0.00021895798
+"manufacturer_Amneal Pharmaceuticals Llc; Lupin Pharmaceuticals, Inc.; Amneal Pharmaceuticals Ny Llc; Janssen Pharmaceutical, Inc.; Jubilant Cadista Pharmacuticals Inc.",0.00018448592
+drug_route_31.0,0.0001811347
+primary_reaction_Cough,0.00017055565
+"manufacturer_Ascend Therapeutics U.S., Llc",0.00016737812
+country_DK,0.00016717448
+"manufacturer_Otsuka America Pharmaceutical, Inc.",0.00016370643
+country_AT,0.00015683605
+manufacturer_Alexion Pharmaceuticals Inc.,0.0001395704
+reactions_Pneumonia,0.00013677365
+manufacturer_Pharmacia & Upjohn Company Llc,0.00013305542
+suspect_drug_ATORVASTATIN CALCIUM,0.00013007
+country_VN,0.00012872812
+drug_route_43.0,0.00012283635
+manufacturer_Pharmacyclics Llc,0.00012135278
+primary_reaction_Depression,0.00011882632
+country_TR,0.00011284193
+reactions_Cardiac failure,0.00010760709
+drug_indication_Idiopathic Pulmonary Fibrosis,0.00010345035
+country_CZ,9.863798e-05
+reactions_Deep vein thrombosis,9.859033e-05
+drug_indication_Asthma,9.193654e-05
+suspect_drug_PEMBROLIZUMAB,8.934256e-05
+suspect_drug_EVEROLIMUS,8.8470675e-05
+suspect_drug_MACITENTAN,8.4260595e-05
+primary_reaction_Hypertension,8.350066e-05
+country_CO,8.129609e-05
+suspect_drug_LENALIDOMIDE,7.698046e-05
+drug_indication_Relapsing-Remitting Multiple Sclerosis,7.578832e-05
+drug_indication_Hypertension,7.505685e-05
+drug_indication_Chronic Obstructive Pulmonary Disease,7.3730276e-05
+country_AU,6.928262e-05
+reactions_Coronary arterial stent insertion,6.695952e-05
+age_group_Teen(13-18),6.66151e-05
+suspect_drug_RITUXIMAB,6.648079e-05
+suspect_drug_TOFACITINIB,6.441234e-05
+drug_indication_Breast Cancer,6.144185e-05
+drug_indication_Schizophrenia,6.023444e-05
+country_ES,5.7585592e-05
+drug_route_14.0,5.2815747e-05
+reactions_Myocardial infarction,5.2185143e-05
+country_infrequent_sklearn,5.053855e-05
+country_CH,5.0094233e-05
+suspect_drug_BEVACIZUMAB,4.9445618e-05
+primary_reaction_Off label use,4.64801e-05
+drug_route_37.0,4.4629396e-05
+primary_reaction_Pain,3.6005167e-05
+drug_indication_Fibromyalgia,3.4650184e-05
+drug_indication_Ankylosing Spondylitis,2.8110286e-05
+reactions_Seizure,2.6771679e-05
+primary_reaction_Diarrhoea,2.664426e-05
+country_AR,2.642085e-05
+reactions_Acute kidney injury,2.5132706e-05
+reactions_Breast cancer,2.3281174e-05
+primary_reaction_Malaise,2.2851213e-05
+manufacturer_Viatris Specialty Llc,2.2451828e-05
+reactions_Maternal exposure during pregnancy,2.142566e-05
+country_KR,2.133171e-05
+country_ZA,1.996511e-05
+age_group_Child(3-12),1.8118002e-05
+country_LB,1.6892714e-05
+drug_indication_Parkinson^S Disease,1.5950523e-05
+country_PL,1.5870524e-05
+"manufacturer_Ucb, Inc.",1.5697018e-05
+reactions_Cardiac failure congestive,1.4795275e-05
+primary_reaction_Condition aggravated,1.2609843e-05
+suspect_drug_IBRUTINIB,1.2388367e-05
+reactions_Myocardial infarction; Cardiac failure congestive,1.1800958e-05
+drug_indication_Deep Vein Thrombosis,1.1728215e-05
+reactions_Acute myocardial infarction,1.1130883e-05
+primary_reaction_Asthenia,1.04021365e-05
+"manufacturer_Genentech, Inc.; Legacy Pharma Usa Inc.",1.01314035e-05
+primary_reaction_Weight decreased,1.00611915e-05
+country_NZ,9.7113425e-06
+reactions_Coronary artery bypass,8.5210895e-06
+drug_route_51.0,8.438465e-06
+reactions_Blood glucose increased,8.3422565e-06
+drug_indication_Epilepsy,8.271908e-06
+drug_indication_Psoriatic Arthropathy,7.619725e-06
+drug_indication_Bipolar Disorder,7.500199e-06
+drug_indication_Narcolepsy,7.2475937e-06
+country_PH,6.4659735e-06
+primary_reaction_Product use in unapproved indication,6.320828e-06
+drug_indication_Depression,6.061753e-06
+country_PE,5.8805344e-06
+country_SE,5.144077e-06
+primary_reaction_Back pain,4.774678e-06
+country_MX,4.589379e-06
+reactions_Gynaecomastia,4.2552183e-06
+drug_indication_Malignant Melanoma,4.0499795e-06
+primary_reaction_Product use issue,2.1808123e-06
+reactions_Cardiac failure congestive; Myocardial infarction,1.9684892e-06
+reactions_Cardiac disorder,0.0
+reactions_Abnormal weight gain; Gynaecomastia,0.0
+drug_route_57.0,0.0
+drug_route_56.0,0.0
+drug_route_54.0,0.0
+drug_route_53.0,0.0
+drug_route_50.0,0.0
+drug_route_52.0,0.0
+drug_route_49.0,0.0
+drug_route_5.0,0.0
+drug_route_45.0,0.0
+drug_indication_Colitis Ulcerative,0.0
+drug_route_60.0,0.0
+country_TH,0.0
+country_SG,0.0
+country_SK,0.0
+drug_route_infrequent_sklearn,0.0
+drug_route_8.0,0.0
+drug_route_63.0,0.0
+drug_route_66.0,0.0
+country_RO,0.0
+country_RU,0.0
+drug_route_26.0,0.0
+drug_route_23.0,0.0
+drug_route_17.0,0.0
+drug_route_16.0,0.0
+drug_indication_Hepatitis C,0.0
+drug_route_25.0,0.0
+drug_route_24.0,0.0
+drug_route_29.0,0.0
+drug_route_4.0,0.0
+drug_route_40.0,0.0
+drug_route_3.0,0.0
+drug_route_1.0,0.0
+suspect_drug_OMALIZUMAB,0.0
+drug_route_10.0,0.0
+suspect_drug_PIRFENIDONE,0.0
+suspect_drug_CERTOLIZUMAB PEGOL,0.0
+drug_route_22.0,0.0
+drug_route_2.0,0.0
+age_group_Infant(0-2),0.0
+reactions_Nasopharyngitis,0.0
+manufacturer_U.S. Pharmaceuticals; Pfizer Laboratories Div Pfizer Inc,0.0
+reactions_Gynaecomastia; Abnormal weight gain,0.0
+reactions_Headache,0.0
+reactions_Rash,0.0
+reactions_Interstitial lung disease,0.0
+reactions_Malaise,0.0
+reactions_Myocardial infarction; Coronary artery disease,0.0
+reactions_Injury,0.0
+drug_count_category_Unknown,0.0
+reactions_Nausea,0.0
+reactions_Dizziness,0.0
+reactions_Drug dose omission,0.0
+reactions_Coronary artery disease; Myocardial infarction,0.0
+country_FI,0.0
+country_CL,0.0
+reactions_Diarrhoea,0.0
+reactions_Dyspnoea,0.0
+country_IE,0.0
+country_GR,0.0
+country_HU,0.0
+reactions_Fatigue,0.0
+country_IN,0.0
+country_NO,0.0
+country_MY,0.0

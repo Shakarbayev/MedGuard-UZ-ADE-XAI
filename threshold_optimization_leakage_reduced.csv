@@ -1,0 +1,6 @@
+Model,Active alert threshold,Total potential alerts,Active alerts shown,Non-interruptive/audit queue,Alert burden reduction (%),Serious ADE sensitivity retained (%),Active alert PPV (%),False positive active alerts
+Primary leakage-reduced XGBoost,0.2,40000,29484,10516,26.290000000000003,96.24633755320914,59.048975715642385,12074
+Primary leakage-reduced XGBoost,0.3,40000,25247,14753,36.8825,90.83973685665322,65.08496058937696,8815
+Primary leakage-reduced XGBoost,0.4,40000,21346,18654,46.635,83.11681132179778,70.43474187201349,6311
+Primary leakage-reduced XGBoost,0.5,40000,17427,22573,56.4325,73.14389960749627,75.92241923452114,4196
+Primary leakage-reduced XGBoost,0.6,40000,13385,26615,66.53750000000001,60.36265133506551,81.57639148300336,2466
