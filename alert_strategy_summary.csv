@@ -1,0 +1,2 @@
+Selected model,Strategy,Total potential alerts,Active alerts shown,Suppressed/non-interruptive alerts,Alert burden reduction (%),Total serious ADE cases,Serious ADE captured in active alerts,Serious ADE sensitivity retained (%)
+XGBoost,AI-guided triage: Critical + High shown actively,40000,17555,22445,56.1125,18089,13360,73.85704019017082

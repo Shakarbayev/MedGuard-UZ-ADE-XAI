@@ -1,0 +1,5 @@
+alert_tier,total_alerts,serious_ade_cases,mean_predicted_risk,percent_of_alerts,serious_ade_rate
+Critical,5747,5339,0.90165275,14.3675,92.90064381416391
+High,11680,7892,0.6469204,29.2,67.56849315068493
+Advisory,7820,3201,0.4000023,19.55,40.933503836317136
+Low-risk audit queue,14753,1657,0.13617046,36.8825,11.23161390903545
